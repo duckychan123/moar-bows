@@ -29,7 +29,7 @@ permissions:
         default: op
     moarbows.use.*:
         description: Use all special bows.
-        default: op
+        default: all
         children:
             moarbows.use.silver-bow: true
             moarbows.use.explosive-bow: true
